@@ -181,3 +181,60 @@ header img {
     border: 1px solid #F5CF5B!important;
     border-radius: 0px;
 }
+
+/* PROMOCIONES */
+
+.promo-card {
+    background-color: #A09470;
+    border: 2px solid var(--accent);
+    height: 100%;
+}
+
+.promo-card h4 {
+    color: var(--accent);
+    font-weight: bold;
+}
+
+.promo-card p {
+    color: #fff;
+}
+
+.calculator-box {
+    background-color: #f8f9fa;
+    border: 2px solid var(--accent);
+}
+
+.resultado-box {
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #A09470;
+    border-radius: 5px;
+}
+
+.total-final {
+    font-size: 1.3rem;
+    color: #630C6B;
+    padding-top: 10px;
+    border-top: 2px solid var(--accent);
+    margin-top: 10px;
+}
+
+.ahorro-mensaje {
+    background-color: #A09470;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+.section-info {
+    background-color: #A09470;
+}
+
+.section-info h2 {
+    color: var(--accent);
+}
+
+.section-info p {
+    color: #fff;
+}
